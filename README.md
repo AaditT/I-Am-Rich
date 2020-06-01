@@ -1,7 +1,7 @@
 # I-Am-Rich
 
-A replica of the infamous I Am Rich iOS app
-Made using AppBrewery tutorial
+A replica of the infamous I Am Rich iOS app <br/>
+Made using AppBrewery tutorial <br/>
 <img src="https://raw.githubusercontent.com/AaditT/I-Am-Rich/master/app-layout-7.jpg" alt="App Layout" width="200" height="400">
 
 
